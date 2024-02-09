@@ -433,6 +433,18 @@
       }
     },
     {
+      "key": "Toy Hammer",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 15,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.0952
+      }
+    },
+    {
       "key": "TZP-Inhalant",
       "value": {
         "active": true,

@@ -395,6 +395,62 @@
             }
           },
           {
+            "key": "Army Helmet",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Army Canteen",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Gramophone",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Old Radio",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "RockingHorse",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
             "key": "Pintoboy",
             "value": {
               "override": false,
@@ -557,7 +613,7 @@
       "key": "2 Conviction",
       "value": {
         "override_price": false,
-        "price": 1300,
+        "price": 0,
         "override_dungeon_size": false,
         "dungeon_size": 5.0,
         "override_min_scrap_amount": false,
@@ -948,6 +1004,62 @@
             }
           },
           {
+            "key": "Army Helmet",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Army Canteen",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Gramophone",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Old Radio",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "RockingHorse",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
             "key": "Pintoboy",
             "value": {
               "override": false,
@@ -1265,35 +1377,35 @@
             "key": "Bunny ears",
             "value": {
               "override": false,
-              "rarity": 1
+              "rarity": 2
             }
           },
           {
             "key": "Toy car",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
             }
           },
           {
             "key": "Toy tank",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
             }
           },
           {
             "key": "Warplane toy",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
             }
           },
           {
             "key": "Skillet",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
             }
           },
           {
@@ -1570,6 +1682,34 @@
             }
           },
           {
+            "key": "Clamp",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Pliers",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Hammer",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Socket Wrench",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
             "key": "giant poster",
             "value": {
               "override": false,
@@ -1651,6 +1791,62 @@
             "value": {
               "override": false,
               "rarity": 10
+            }
+          },
+          {
+            "key": "Army Helmet",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Army Canteen",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Gramophone",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Old Radio",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "RockingHorse",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 1
             }
           },
           {
@@ -1867,7 +2063,7 @@
             "key": "Bottles",
             "value": {
               "override": false,
-              "rarity": 58
+              "rarity": 111
             }
           },
           {
@@ -2049,35 +2245,35 @@
             "key": "Bunny ears",
             "value": {
               "override": false,
-              "rarity": 1
+              "rarity": 2
             }
           },
           {
             "key": "Toy car",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
             }
           },
           {
             "key": "Toy tank",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
             }
           },
           {
             "key": "Warplane toy",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
             }
           },
           {
             "key": "Skillet",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
             }
           },
           {
@@ -2354,6 +2550,34 @@
             }
           },
           {
+            "key": "Clamp",
+            "value": {
+              "override": false,
+              "rarity": 8
+            }
+          },
+          {
+            "key": "Pliers",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Hammer",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Socket Wrench",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
             "key": "Arson Plush",
             "value": {
               "override": false,
@@ -2428,6 +2652,62 @@
             "value": {
               "override": false,
               "rarity": 10
+            }
+          },
+          {
+            "key": "Army Helmet",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Army Canteen",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Gramophone",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Old Radio",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "RockingHorse",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 1
             }
           },
           {
@@ -2583,10 +2863,297 @@
       }
     },
     {
-      "key": "28 Celest",
+      "key": "27 Triskelion",
       "value": {
         "override_price": false,
         "price": 350,
+        "override_dungeon_size": false,
+        "dungeon_size": 1.5,
+        "override_min_scrap_amount": false,
+        "min_scrap_amount": 16,
+        "override_max_scrap_amount": false,
+        "max_scrap_amount": 21,
+        "override_scrap_amount_modifier": false,
+        "scrap_amount_modifier": 1.0,
+        "override_scrap_value_modifier": false,
+        "scrap_value_modifier": 1.0,
+        "loot_table": [
+          {
+            "key": "Gold bar",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Cash register",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Flask",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "Metal sheet",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Perfume bottle",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "Hairdryer",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Laser pointer",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Rubber Ducky",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Teeth",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "Stop sign",
+            "value": {
+              "override": false,
+              "rarity": 20
+            }
+          },
+          {
+            "key": "Ring",
+            "value": {
+              "override": false,
+              "rarity": 20
+            }
+          },
+          {
+            "key": "Bell",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Chemical jug",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Red soda",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "Airhorn",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "Clown horn",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          },
+          {
+            "key": "Old phone",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Comedy",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Tragedy",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Remote",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "Gift",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Large axle",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "Pill bottle",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          }
+        ],
+        "override_daytime_enemies_max_power": false,
+        "daytime_enemies_max_power": 5,
+        "override_daytime_enemies_probability": false,
+        "daytime_enemies_probability": 3.0,
+        "daytime_enemies": [
+          {
+            "key": "Manticoil",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          }
+        ],
+        "override_outside_enemies_max_power": false,
+        "outside_enemies_max_power": 6,
+        "outside_enemies": [
+          {
+            "key": "Baboon hawk",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          }
+        ],
+        "override_inside_enemies_max_power": false,
+        "inside_enemies_max_power": 13,
+        "override_inside_enemies_probability": false,
+        "inside_enemies_probability": 4.0,
+        "inside_enemies": [
+          {
+            "key": "Bunker Spider",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Crawler",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "Centipede",
+            "value": {
+              "override": false,
+              "rarity": 20
+            }
+          },
+          {
+            "key": "Hoarding bug",
+            "value": {
+              "override": false,
+              "rarity": 20
+            }
+          },
+          {
+            "key": "Blob",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "Flowerman",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Puffer",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Masked",
+            "value": {
+              "override": false,
+              "rarity": 7
+            }
+          },
+          {
+            "key": "Nutcracker",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Spring",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Girl",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "key": "28 Celest",
+      "value": {
+        "override_price": false,
+        "price": 0,
         "override_dungeon_size": false,
         "dungeon_size": 1.4,
         "override_min_scrap_amount": false,
@@ -2977,6 +3544,62 @@
             }
           },
           {
+            "key": "Army Helmet",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Army Canteen",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Gramophone",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Old Radio",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "RockingHorse",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
             "key": "Pintoboy",
             "value": {
               "override": false,
@@ -3323,35 +3946,35 @@
             "key": "Bunny ears",
             "value": {
               "override": false,
-              "rarity": 1
+              "rarity": 2
             }
           },
           {
             "key": "Toy car",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
             }
           },
           {
             "key": "Toy tank",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
             }
           },
           {
             "key": "Warplane toy",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
             }
           },
           {
             "key": "Skillet",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
             }
           },
           {
@@ -3628,6 +4251,34 @@
             }
           },
           {
+            "key": "Clamp",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Pliers",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Hammer",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Socket Wrench",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
             "key": "Arson Plush",
             "value": {
               "override": false,
@@ -3702,6 +4353,62 @@
             "value": {
               "override": false,
               "rarity": 10
+            }
+          },
+          {
+            "key": "Army Helmet",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Army Canteen",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Gramophone",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Old Radio",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "RockingHorse",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 1
             }
           },
           {
@@ -4021,7 +4728,7 @@
           }
         ],
         "override_daytime_enemies_max_power": false,
-        "daytime_enemies_max_power": 6,
+        "daytime_enemies_max_power": 5,
         "override_daytime_enemies_probability": false,
         "daytime_enemies_probability": 3.0,
         "daytime_enemies": [
@@ -4034,32 +4741,32 @@
           }
         ],
         "override_outside_enemies_max_power": false,
-        "outside_enemies_max_power": 13,
+        "outside_enemies_max_power": 11,
         "outside_enemies": [
           {
             "key": "ForestGiant",
             "value": {
               "override": false,
-              "rarity": 75
+              "rarity": 69
             }
           },
           {
             "key": "MouthDog",
             "value": {
               "override": false,
-              "rarity": 15
+              "rarity": 30
             }
           },
           {
             "key": "Baboon hawk",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 1
             }
           }
         ],
         "override_inside_enemies_max_power": false,
-        "inside_enemies_max_power": 22,
+        "inside_enemies_max_power": 20,
         "override_inside_enemies_probability": false,
         "inside_enemies_probability": 4.0,
         "inside_enemies": [
@@ -4067,28 +4774,28 @@
             "key": "Spring",
             "value": {
               "override": false,
-              "rarity": 25
+              "rarity": 45
             }
           },
           {
             "key": "Flowerman",
             "value": {
               "override": false,
-              "rarity": 15
+              "rarity": 20
             }
           },
           {
             "key": "Blob",
             "value": {
               "override": false,
-              "rarity": 13
+              "rarity": 15
             }
           },
           {
             "key": "Crawler",
             "value": {
               "override": false,
-              "rarity": 11
+              "rarity": 15
             }
           },
           {
@@ -4102,14 +4809,21 @@
             "key": "Hoarding bug",
             "value": {
               "override": false,
-              "rarity": 7
+              "rarity": 10
             }
           },
           {
             "key": "Masked",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Centipede",
+            "value": {
+              "override": false,
+              "rarity": 10
             }
           },
           {
@@ -4124,13 +4838,6 @@
             "value": {
               "override": false,
               "rarity": 5
-            }
-          },
-          {
-            "key": "Centipede",
-            "value": {
-              "override": false,
-              "rarity": 4
             }
           },
           {
@@ -4154,7 +4861,7 @@
       "key": "46 Infernis",
       "value": {
         "override_price": false,
-        "price": 280,
+        "price": 0,
         "override_dungeon_size": false,
         "dungeon_size": 1.58,
         "override_min_scrap_amount": false,
@@ -4240,7 +4947,7 @@
             "key": "Flintlock",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 12
             }
           },
           {
@@ -4388,6 +5095,62 @@
             "value": {
               "override": false,
               "rarity": 10
+            }
+          },
+          {
+            "key": "Army Helmet",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Army Canteen",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Gramophone",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Old Radio",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "RockingHorse",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 1
             }
           },
           {
@@ -4611,7 +5374,7 @@
             "key": "Bottles",
             "value": {
               "override": false,
-              "rarity": 58
+              "rarity": 82
             }
           },
           {
@@ -4786,35 +5549,35 @@
             "key": "Bunny ears",
             "value": {
               "override": false,
-              "rarity": 1
+              "rarity": 2
             }
           },
           {
             "key": "Toy car",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
             }
           },
           {
             "key": "Toy tank",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
             }
           },
           {
             "key": "Warplane toy",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
             }
           },
           {
             "key": "Skillet",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
             }
           },
           {
@@ -5091,6 +5854,34 @@
             }
           },
           {
+            "key": "Clamp",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Pliers",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Hammer",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Socket Wrench",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
             "key": "giant poster",
             "value": {
               "override": false,
@@ -5172,6 +5963,62 @@
             "value": {
               "override": false,
               "rarity": 10
+            }
+          },
+          {
+            "key": "Army Helmet",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Army Canteen",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Gramophone",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Old Radio",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "RockingHorse",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 1
             }
           },
           {
@@ -5507,35 +6354,35 @@
             "key": "Bunny ears",
             "value": {
               "override": false,
-              "rarity": 1
+              "rarity": 2
             }
           },
           {
             "key": "Toy car",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
             }
           },
           {
             "key": "Toy tank",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
             }
           },
           {
             "key": "Warplane toy",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
             }
           },
           {
             "key": "Skillet",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
             }
           },
           {
@@ -5812,6 +6659,34 @@
             }
           },
           {
+            "key": "Clamp",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Pliers",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Hammer",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Socket Wrench",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
             "key": "giant poster",
             "value": {
               "override": false,
@@ -5893,6 +6768,62 @@
             "value": {
               "override": false,
               "rarity": 10
+            }
+          },
+          {
+            "key": "Army Helmet",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Army Canteen",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Gramophone",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Old Radio",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "RockingHorse",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 1
             }
           },
           {
@@ -6333,49 +7264,49 @@
             "key": "Light shoes",
             "value": {
               "override": false,
-              "rarity": 1
+              "rarity": 2
             }
           },
           {
             "key": "Bunny ears",
             "value": {
               "override": false,
-              "rarity": 1
+              "rarity": 2
             }
           },
           {
             "key": "Potatoes",
             "value": {
               "override": false,
-              "rarity": 1
+              "rarity": 2
             }
           },
           {
             "key": "Toy car",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
             }
           },
           {
             "key": "Toy tank",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
             }
           },
           {
             "key": "Warplane toy",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
             }
           },
           {
             "key": "Skillet",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
             }
           },
           {
@@ -6652,6 +7583,34 @@
             }
           },
           {
+            "key": "Clamp",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Pliers",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Hammer",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Socket Wrench",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
             "key": "giant poster",
             "value": {
               "override": false,
@@ -6733,6 +7692,62 @@
             "value": {
               "override": false,
               "rarity": 10
+            }
+          },
+          {
+            "key": "Army Helmet",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Army Canteen",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Gramophone",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Old Radio",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "RockingHorse",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 1
             }
           },
           {
@@ -6994,6 +8009,62 @@
             }
           },
           {
+            "key": "Army Helmet",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Army Canteen",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Gramophone",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Old Radio",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "RockingHorse",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
             "key": "Pintoboy",
             "value": {
               "override": false,
@@ -7042,13 +8113,13 @@
       "key": "74 Acidir",
       "value": {
         "override_price": false,
-        "price": 650,
+        "price": 0,
         "override_dungeon_size": false,
         "dungeon_size": 2.1,
         "override_min_scrap_amount": false,
-        "min_scrap_amount": 46,
+        "min_scrap_amount": 26,
         "override_max_scrap_amount": false,
-        "max_scrap_amount": 48,
+        "max_scrap_amount": 30,
         "override_scrap_amount_modifier": false,
         "scrap_amount_modifier": 1.0,
         "override_scrap_value_modifier": false,
@@ -7058,70 +8129,70 @@
             "key": "Rum Bottle",
             "value": {
               "override": false,
-              "rarity": 71
+              "rarity": 44
             }
           },
           {
             "key": "Cursed Coin",
             "value": {
               "override": false,
-              "rarity": 64
+              "rarity": 38
             }
           },
           {
             "key": "Book",
             "value": {
               "override": false,
-              "rarity": 56
+              "rarity": 32
             }
           },
           {
             "key": "Glass Eye",
             "value": {
               "override": false,
-              "rarity": 52
+              "rarity": 28
             }
           },
           {
             "key": "Candle Holder",
             "value": {
               "override": false,
-              "rarity": 44
+              "rarity": 26
             }
           },
           {
             "key": "Raven Skull",
             "value": {
               "override": false,
-              "rarity": 40
+              "rarity": 21
             }
           },
           {
             "key": "Ribcage",
             "value": {
               "override": false,
-              "rarity": 21
+              "rarity": 11
             }
           },
           {
             "key": "Tall Candlestick",
             "value": {
               "override": false,
-              "rarity": 35
+              "rarity": 23
             }
           },
           {
             "key": "Demon Candle",
             "value": {
               "override": false,
-              "rarity": 23
+              "rarity": 22
             }
           },
           {
             "key": "Crescent of Curses",
             "value": {
               "override": false,
-              "rarity": 19
+              "rarity": 5
             }
           },
           {
@@ -7135,35 +8206,35 @@
             "key": "Frog",
             "value": {
               "override": false,
-              "rarity": 1
+              "rarity": 7
             }
           },
           {
             "key": "Ring",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 2
             }
           },
           {
             "key": "Airhorn",
             "value": {
               "override": false,
-              "rarity": 2
+              "rarity": 1
             }
           },
           {
             "key": "Clown horn",
             "value": {
               "override": false,
-              "rarity": 2
+              "rarity": 1
             }
           },
           {
             "key": "Magnifying glass",
             "value": {
               "override": false,
-              "rarity": 4
+              "rarity": 2
             }
           },
           {
@@ -7177,28 +8248,28 @@
             "key": "Magic 7 ball",
             "value": {
               "override": false,
-              "rarity": 4
+              "rarity": 2
             }
           },
           {
             "key": "Comedy",
             "value": {
               "override": false,
-              "rarity": 16
+              "rarity": 3
             }
           },
           {
             "key": "Tragedy",
             "value": {
               "override": false,
-              "rarity": 16
+              "rarity": 3
             }
           },
           {
             "key": "Painting",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 3
             }
           },
           {
@@ -7311,6 +8382,62 @@
             "value": {
               "override": false,
               "rarity": 10
+            }
+          },
+          {
+            "key": "Army Helmet",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Army Canteen",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Gramophone",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Old Radio",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "RockingHorse",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 1
             }
           },
           {
@@ -7716,49 +8843,49 @@
             "key": "Light shoes",
             "value": {
               "override": false,
-              "rarity": 1
+              "rarity": 2
             }
           },
           {
             "key": "Bunny ears",
             "value": {
               "override": false,
-              "rarity": 1
+              "rarity": 2
             }
           },
           {
             "key": "Potatoes",
             "value": {
               "override": false,
-              "rarity": 2
+              "rarity": 4
             }
           },
           {
             "key": "Toy car",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
             }
           },
           {
             "key": "Toy tank",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
             }
           },
           {
             "key": "Warplane toy",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
             }
           },
           {
             "key": "Skillet",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
             }
           },
           {
@@ -8035,6 +9162,34 @@
             }
           },
           {
+            "key": "Clamp",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Pliers",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Hammer",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Socket Wrench",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
             "key": "giant poster",
             "value": {
               "override": false,
@@ -8116,6 +9271,62 @@
             "value": {
               "override": false,
               "rarity": 10
+            }
+          },
+          {
+            "key": "Army Helmet",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Army Canteen",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Gramophone",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Old Radio",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "RockingHorse",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 1
             }
           },
           {
@@ -8541,49 +9752,49 @@
             "key": "Light shoes",
             "value": {
               "override": false,
-              "rarity": 1
+              "rarity": 2
             }
           },
           {
             "key": "Bunny ears",
             "value": {
               "override": false,
-              "rarity": 1
+              "rarity": 2
             }
           },
           {
             "key": "Potatoes",
             "value": {
               "override": false,
-              "rarity": 1
+              "rarity": 2
             }
           },
           {
             "key": "Toy car",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
             }
           },
           {
             "key": "Toy tank",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
             }
           },
           {
             "key": "Warplane toy",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
             }
           },
           {
             "key": "Skillet",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 10
             }
           },
           {
@@ -8860,6 +10071,34 @@
             }
           },
           {
+            "key": "Clamp",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Pliers",
+            "value": {
+              "override": false,
+              "rarity": 8
+            }
+          },
+          {
+            "key": "Hammer",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Socket Wrench",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
             "key": "giant poster",
             "value": {
               "override": false,
@@ -8941,6 +10180,62 @@
             "value": {
               "override": false,
               "rarity": 10
+            }
+          },
+          {
+            "key": "Army Helmet",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Army Canteen",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Gramophone",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Old Radio",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "RockingHorse",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 1
             }
           },
           {
@@ -9163,7 +10458,7 @@
             "key": "Stop sign",
             "value": {
               "override": false,
-              "rarity": 13
+              "rarity": 31
             }
           },
           {
