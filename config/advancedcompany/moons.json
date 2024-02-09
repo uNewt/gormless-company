@@ -311,6 +311,34 @@
             }
           },
           {
+            "key": "Empty Syringe",
+            "value": {
+              "override": false,
+              "rarity": 27
+            }
+          },
+          {
+            "key": "Zip Jar",
+            "value": {
+              "override": false,
+              "rarity": 13
+            }
+          },
+          {
+            "key": "Heroin Syringe",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Quarter Jar",
+            "value": {
+              "override": false,
+              "rarity": 13
+            }
+          },
+          {
             "key": "Fire hydrant",
             "value": {
               "override": false,
@@ -392,6 +420,13 @@
             "value": {
               "override": false,
               "rarity": 10
+            }
+          },
+          {
+            "key": "Polaroid",
+            "value": {
+              "override": false,
+              "rarity": 5
             }
           },
           {
@@ -600,10 +635,24 @@
             }
           },
           {
+            "key": "ImmortalSnail",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
             "key": "Shrimp",
             "value": {
               "override": false,
               "rarity": 0
+            }
+          },
+          {
+            "key": "Shy guy",
+            "value": {
+              "override": false,
+              "rarity": 15
             }
           }
         ]
@@ -920,6 +969,34 @@
             }
           },
           {
+            "key": "Empty Syringe",
+            "value": {
+              "override": false,
+              "rarity": 27
+            }
+          },
+          {
+            "key": "Zip Jar",
+            "value": {
+              "override": false,
+              "rarity": 13
+            }
+          },
+          {
+            "key": "Heroin Syringe",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Quarter Jar",
+            "value": {
+              "override": false,
+              "rarity": 13
+            }
+          },
+          {
             "key": "Fire hydrant",
             "value": {
               "override": false,
@@ -1001,6 +1078,13 @@
             "value": {
               "override": false,
               "rarity": 10
+            }
+          },
+          {
+            "key": "Polaroid",
+            "value": {
+              "override": false,
+              "rarity": 5
             }
           },
           {
@@ -1201,10 +1285,24 @@
             }
           },
           {
+            "key": "ImmortalSnail",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
             "key": "Shrimp",
             "value": {
               "override": false,
               "rarity": 0
+            }
+          },
+          {
+            "key": "Shy guy",
+            "value": {
+              "override": false,
+              "rarity": 15
             }
           }
         ]
@@ -1377,35 +1475,98 @@
             "key": "Bunny ears",
             "value": {
               "override": false,
-              "rarity": 2
+              "rarity": 1
             }
           },
           {
             "key": "Toy car",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
             }
           },
           {
             "key": "Toy tank",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
             }
           },
           {
             "key": "Warplane toy",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
             }
           },
           {
             "key": "Skillet",
             "value": {
               "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Vodka",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Wine",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          },
+          {
+            "key": "Butter Schnapps",
+            "value": {
+              "override": false,
+              "rarity": 28
+            }
+          },
+          {
+            "key": "Jagermeister",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Bong",
+            "value": {
+              "override": false,
               "rarity": 10
+            }
+          },
+          {
+            "key": "Empty Syringe",
+            "value": {
+              "override": false,
+              "rarity": 27
+            }
+          },
+          {
+            "key": "Zip Jar",
+            "value": {
+              "override": false,
+              "rarity": 13
+            }
+          },
+          {
+            "key": "Heroin Syringe",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Quarter Jar",
+            "value": {
+              "override": false,
+              "rarity": 13
             }
           },
           {
@@ -1794,6 +1955,13 @@
             }
           },
           {
+            "key": "Polaroid",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
             "key": "Army Helmet",
             "value": {
               "override": false,
@@ -1989,6 +2157,20 @@
             "value": {
               "override": false,
               "rarity": 20
+            }
+          },
+          {
+            "key": "ImmortalSnail",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "Shy guy",
+            "value": {
+              "override": false,
+              "rarity": 15
             }
           }
         ]
@@ -2245,35 +2427,98 @@
             "key": "Bunny ears",
             "value": {
               "override": false,
-              "rarity": 2
+              "rarity": 1
             }
           },
           {
             "key": "Toy car",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
             }
           },
           {
             "key": "Toy tank",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
             }
           },
           {
             "key": "Warplane toy",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
             }
           },
           {
             "key": "Skillet",
             "value": {
               "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Vodka",
+            "value": {
+              "override": false,
+              "rarity": 20
+            }
+          },
+          {
+            "key": "Wine",
+            "value": {
+              "override": false,
+              "rarity": 32
+            }
+          },
+          {
+            "key": "Butter Schnapps",
+            "value": {
+              "override": false,
+              "rarity": 22
+            }
+          },
+          {
+            "key": "Jagermeister",
+            "value": {
+              "override": false,
+              "rarity": 26
+            }
+          },
+          {
+            "key": "Bong",
+            "value": {
+              "override": false,
               "rarity": 10
+            }
+          },
+          {
+            "key": "Empty Syringe",
+            "value": {
+              "override": false,
+              "rarity": 27
+            }
+          },
+          {
+            "key": "Zip Jar",
+            "value": {
+              "override": false,
+              "rarity": 13
+            }
+          },
+          {
+            "key": "Heroin Syringe",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Quarter Jar",
+            "value": {
+              "override": false,
+              "rarity": 13
             }
           },
           {
@@ -2655,6 +2900,13 @@
             }
           },
           {
+            "key": "Polaroid",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
             "key": "Army Helmet",
             "value": {
               "override": false,
@@ -2857,6 +3109,20 @@
             "value": {
               "override": false,
               "rarity": 20
+            }
+          },
+          {
+            "key": "ImmortalSnail",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "Shy guy",
+            "value": {
+              "override": false,
+              "rarity": 15
             }
           }
         ]
@@ -3460,6 +3726,34 @@
             }
           },
           {
+            "key": "Empty Syringe",
+            "value": {
+              "override": false,
+              "rarity": 27
+            }
+          },
+          {
+            "key": "Zip Jar",
+            "value": {
+              "override": false,
+              "rarity": 13
+            }
+          },
+          {
+            "key": "Heroin Syringe",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Quarter Jar",
+            "value": {
+              "override": false,
+              "rarity": 13
+            }
+          },
+          {
             "key": "Fire hydrant",
             "value": {
               "override": false,
@@ -3541,6 +3835,13 @@
             "value": {
               "override": false,
               "rarity": 10
+            }
+          },
+          {
+            "key": "Polaroid",
+            "value": {
+              "override": false,
+              "rarity": 5
             }
           },
           {
@@ -3763,10 +4064,24 @@
             }
           },
           {
+            "key": "ImmortalSnail",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
             "key": "Shrimp",
             "value": {
               "override": false,
               "rarity": 0
+            }
+          },
+          {
+            "key": "Shy guy",
+            "value": {
+              "override": false,
+              "rarity": 15
             }
           }
         ]
@@ -3946,35 +4261,98 @@
             "key": "Bunny ears",
             "value": {
               "override": false,
-              "rarity": 2
+              "rarity": 1
             }
           },
           {
             "key": "Toy car",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
             }
           },
           {
             "key": "Toy tank",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
             }
           },
           {
             "key": "Warplane toy",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
             }
           },
           {
             "key": "Skillet",
             "value": {
               "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Vodka",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "Wine",
+            "value": {
+              "override": false,
+              "rarity": 39
+            }
+          },
+          {
+            "key": "Butter Schnapps",
+            "value": {
+              "override": false,
+              "rarity": 22
+            }
+          },
+          {
+            "key": "Jagermeister",
+            "value": {
+              "override": false,
+              "rarity": 26
+            }
+          },
+          {
+            "key": "Bong",
+            "value": {
+              "override": false,
               "rarity": 10
+            }
+          },
+          {
+            "key": "Empty Syringe",
+            "value": {
+              "override": false,
+              "rarity": 27
+            }
+          },
+          {
+            "key": "Zip Jar",
+            "value": {
+              "override": false,
+              "rarity": 13
+            }
+          },
+          {
+            "key": "Heroin Syringe",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Quarter Jar",
+            "value": {
+              "override": false,
+              "rarity": 13
             }
           },
           {
@@ -4356,6 +4734,13 @@
             }
           },
           {
+            "key": "Polaroid",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
             "key": "Army Helmet",
             "value": {
               "override": false,
@@ -4450,6 +4835,13 @@
             "value": {
               "override": false,
               "rarity": 52
+            }
+          },
+          {
+            "key": "Peeper",
+            "value": {
+              "override": false,
+              "rarity": 0
             }
           }
         ],
@@ -4554,10 +4946,24 @@
             }
           },
           {
+            "key": "ImmortalSnail",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
             "key": "Shrimp",
             "value": {
               "override": false,
               "rarity": 2
+            }
+          },
+          {
+            "key": "Shy guy",
+            "value": {
+              "override": false,
+              "rarity": 15
             }
           }
         ]
@@ -5014,6 +5420,34 @@
             }
           },
           {
+            "key": "Empty Syringe",
+            "value": {
+              "override": false,
+              "rarity": 27
+            }
+          },
+          {
+            "key": "Zip Jar",
+            "value": {
+              "override": false,
+              "rarity": 13
+            }
+          },
+          {
+            "key": "Heroin Syringe",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Quarter Jar",
+            "value": {
+              "override": false,
+              "rarity": 13
+            }
+          },
+          {
             "key": "Fire hydrant",
             "value": {
               "override": false,
@@ -5095,6 +5529,13 @@
             "value": {
               "override": false,
               "rarity": 10
+            }
+          },
+          {
+            "key": "Polaroid",
+            "value": {
+              "override": false,
+              "rarity": 5
             }
           },
           {
@@ -5296,10 +5737,24 @@
             }
           },
           {
+            "key": "ImmortalSnail",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
             "key": "Shrimp",
             "value": {
               "override": false,
               "rarity": 0
+            }
+          },
+          {
+            "key": "Shy guy",
+            "value": {
+              "override": false,
+              "rarity": 15
             }
           }
         ]
@@ -5549,35 +6004,98 @@
             "key": "Bunny ears",
             "value": {
               "override": false,
-              "rarity": 2
+              "rarity": 1
             }
           },
           {
             "key": "Toy car",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
             }
           },
           {
             "key": "Toy tank",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
             }
           },
           {
             "key": "Warplane toy",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
             }
           },
           {
             "key": "Skillet",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Vodka",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Wine",
+            "value": {
+              "override": false,
+              "rarity": 33
+            }
+          },
+          {
+            "key": "Butter Schnapps",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Jagermeister",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Bong",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "Empty Syringe",
+            "value": {
+              "override": false,
+              "rarity": 27
+            }
+          },
+          {
+            "key": "Zip Jar",
+            "value": {
+              "override": false,
+              "rarity": 13
+            }
+          },
+          {
+            "key": "Heroin Syringe",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Quarter Jar",
+            "value": {
+              "override": false,
+              "rarity": 13
             }
           },
           {
@@ -5966,6 +6484,13 @@
             }
           },
           {
+            "key": "Polaroid",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
             "key": "Army Helmet",
             "value": {
               "override": false,
@@ -6169,6 +6694,20 @@
               "override": false,
               "rarity": 20
             }
+          },
+          {
+            "key": "ImmortalSnail",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "Shy guy",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
           }
         ]
       }
@@ -6354,35 +6893,98 @@
             "key": "Bunny ears",
             "value": {
               "override": false,
-              "rarity": 2
+              "rarity": 1
             }
           },
           {
             "key": "Toy car",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
             }
           },
           {
             "key": "Toy tank",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
             }
           },
           {
             "key": "Warplane toy",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
             }
           },
           {
             "key": "Skillet",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Vodka",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Wine",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Butter Schnapps",
+            "value": {
+              "override": false,
+              "rarity": 29
+            }
+          },
+          {
+            "key": "Jagermeister",
+            "value": {
+              "override": false,
+              "rarity": 22
+            }
+          },
+          {
+            "key": "Bong",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "Empty Syringe",
+            "value": {
+              "override": false,
+              "rarity": 27
+            }
+          },
+          {
+            "key": "Zip Jar",
+            "value": {
+              "override": false,
+              "rarity": 13
+            }
+          },
+          {
+            "key": "Heroin Syringe",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Quarter Jar",
+            "value": {
+              "override": false,
+              "rarity": 13
             }
           },
           {
@@ -6771,6 +7373,13 @@
             }
           },
           {
+            "key": "Polaroid",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
             "key": "Army Helmet",
             "value": {
               "override": false,
@@ -6987,6 +7596,20 @@
             "value": {
               "override": false,
               "rarity": 20
+            }
+          },
+          {
+            "key": "ImmortalSnail",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "Shy guy",
+            "value": {
+              "override": false,
+              "rarity": 15
             }
           }
         ]
@@ -7264,49 +7887,112 @@
             "key": "Light shoes",
             "value": {
               "override": false,
-              "rarity": 2
+              "rarity": 1
             }
           },
           {
             "key": "Bunny ears",
             "value": {
               "override": false,
-              "rarity": 2
+              "rarity": 1
             }
           },
           {
             "key": "Potatoes",
             "value": {
               "override": false,
-              "rarity": 2
+              "rarity": 1
             }
           },
           {
             "key": "Toy car",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
             }
           },
           {
             "key": "Toy tank",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
             }
           },
           {
             "key": "Warplane toy",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
             }
           },
           {
             "key": "Skillet",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Vodka",
+            "value": {
+              "override": false,
+              "rarity": 45
+            }
+          },
+          {
+            "key": "Wine",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Butter Schnapps",
+            "value": {
+              "override": false,
+              "rarity": 44
+            }
+          },
+          {
+            "key": "Jagermeister",
+            "value": {
+              "override": false,
+              "rarity": 22
+            }
+          },
+          {
+            "key": "Bong",
+            "value": {
+              "override": false,
+              "rarity": 17
+            }
+          },
+          {
+            "key": "Empty Syringe",
+            "value": {
+              "override": false,
+              "rarity": 27
+            }
+          },
+          {
+            "key": "Zip Jar",
+            "value": {
+              "override": false,
+              "rarity": 13
+            }
+          },
+          {
+            "key": "Heroin Syringe",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Quarter Jar",
+            "value": {
+              "override": false,
+              "rarity": 13
             }
           },
           {
@@ -7695,6 +8381,13 @@
             }
           },
           {
+            "key": "Polaroid",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
             "key": "Army Helmet",
             "value": {
               "override": false,
@@ -7904,6 +8597,20 @@
               "override": false,
               "rarity": 20
             }
+          },
+          {
+            "key": "ImmortalSnail",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "Shy guy",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
           }
         ]
       }
@@ -7924,6 +8631,34 @@
         "override_scrap_value_modifier": false,
         "scrap_value_modifier": 1.0,
         "loot_table": [
+          {
+            "key": "Empty Syringe",
+            "value": {
+              "override": false,
+              "rarity": 27
+            }
+          },
+          {
+            "key": "Zip Jar",
+            "value": {
+              "override": false,
+              "rarity": 13
+            }
+          },
+          {
+            "key": "Heroin Syringe",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Quarter Jar",
+            "value": {
+              "override": false,
+              "rarity": 13
+            }
+          },
           {
             "key": "Fire hydrant",
             "value": {
@@ -8006,6 +8741,13 @@
             "value": {
               "override": false,
               "rarity": 10
+            }
+          },
+          {
+            "key": "Polaroid",
+            "value": {
+              "override": false,
+              "rarity": 5
             }
           },
           {
@@ -8100,10 +8842,24 @@
             }
           },
           {
+            "key": "ImmortalSnail",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
             "key": "Shrimp",
             "value": {
               "override": false,
               "rarity": 0
+            }
+          },
+          {
+            "key": "Shy guy",
+            "value": {
+              "override": false,
+              "rarity": 15
             }
           }
         ]
@@ -8301,6 +9057,34 @@
             }
           },
           {
+            "key": "Empty Syringe",
+            "value": {
+              "override": false,
+              "rarity": 27
+            }
+          },
+          {
+            "key": "Zip Jar",
+            "value": {
+              "override": false,
+              "rarity": 13
+            }
+          },
+          {
+            "key": "Heroin Syringe",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Quarter Jar",
+            "value": {
+              "override": false,
+              "rarity": 13
+            }
+          },
+          {
             "key": "Fire hydrant",
             "value": {
               "override": false,
@@ -8382,6 +9166,13 @@
             "value": {
               "override": false,
               "rarity": 10
+            }
+          },
+          {
+            "key": "Polaroid",
+            "value": {
+              "override": false,
+              "rarity": 5
             }
           },
           {
@@ -8576,10 +9367,24 @@
             }
           },
           {
+            "key": "ImmortalSnail",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
             "key": "Shrimp",
             "value": {
               "override": false,
               "rarity": 0
+            }
+          },
+          {
+            "key": "Shy guy",
+            "value": {
+              "override": false,
+              "rarity": 15
             }
           }
         ]
@@ -8843,49 +9648,112 @@
             "key": "Light shoes",
             "value": {
               "override": false,
-              "rarity": 2
+              "rarity": 1
             }
           },
           {
             "key": "Bunny ears",
             "value": {
               "override": false,
-              "rarity": 2
+              "rarity": 1
             }
           },
           {
             "key": "Potatoes",
             "value": {
               "override": false,
-              "rarity": 4
+              "rarity": 2
             }
           },
           {
             "key": "Toy car",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
             }
           },
           {
             "key": "Toy tank",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
             }
           },
           {
             "key": "Warplane toy",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
             }
           },
           {
             "key": "Skillet",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Vodka",
+            "value": {
+              "override": false,
+              "rarity": 45
+            }
+          },
+          {
+            "key": "Wine",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Butter Schnapps",
+            "value": {
+              "override": false,
+              "rarity": 47
+            }
+          },
+          {
+            "key": "Jagermeister",
+            "value": {
+              "override": false,
+              "rarity": 22
+            }
+          },
+          {
+            "key": "Bong",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "Empty Syringe",
+            "value": {
+              "override": false,
+              "rarity": 27
+            }
+          },
+          {
+            "key": "Zip Jar",
+            "value": {
+              "override": false,
+              "rarity": 13
+            }
+          },
+          {
+            "key": "Heroin Syringe",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Quarter Jar",
+            "value": {
+              "override": false,
+              "rarity": 13
             }
           },
           {
@@ -9274,6 +10142,13 @@
             }
           },
           {
+            "key": "Polaroid",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
             "key": "Army Helmet",
             "value": {
               "override": false,
@@ -9489,6 +10364,20 @@
             "value": {
               "override": false,
               "rarity": 20
+            }
+          },
+          {
+            "key": "ImmortalSnail",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "Shy guy",
+            "value": {
+              "override": false,
+              "rarity": 15
             }
           }
         ]
@@ -9752,49 +10641,112 @@
             "key": "Light shoes",
             "value": {
               "override": false,
-              "rarity": 2
+              "rarity": 1
             }
           },
           {
             "key": "Bunny ears",
             "value": {
               "override": false,
-              "rarity": 2
+              "rarity": 1
             }
           },
           {
             "key": "Potatoes",
             "value": {
               "override": false,
-              "rarity": 2
+              "rarity": 1
             }
           },
           {
             "key": "Toy car",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
             }
           },
           {
             "key": "Toy tank",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
             }
           },
           {
             "key": "Warplane toy",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
             }
           },
           {
             "key": "Skillet",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Vodka",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Wine",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Butter Schnapps",
+            "value": {
+              "override": false,
+              "rarity": 31
+            }
+          },
+          {
+            "key": "Jagermeister",
+            "value": {
+              "override": false,
+              "rarity": 22
+            }
+          },
+          {
+            "key": "Bong",
+            "value": {
+              "override": false,
+              "rarity": 17
+            }
+          },
+          {
+            "key": "Empty Syringe",
+            "value": {
+              "override": false,
+              "rarity": 27
+            }
+          },
+          {
+            "key": "Zip Jar",
+            "value": {
+              "override": false,
+              "rarity": 13
+            }
+          },
+          {
+            "key": "Heroin Syringe",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Quarter Jar",
+            "value": {
+              "override": false,
+              "rarity": 13
             }
           },
           {
@@ -10183,6 +11135,13 @@
             }
           },
           {
+            "key": "Polaroid",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
             "key": "Army Helmet",
             "value": {
               "override": false,
@@ -10384,6 +11343,20 @@
             "value": {
               "override": false,
               "rarity": 20
+            }
+          },
+          {
+            "key": "ImmortalSnail",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "Shy guy",
+            "value": {
+              "override": false,
+              "rarity": 15
             }
           }
         ]

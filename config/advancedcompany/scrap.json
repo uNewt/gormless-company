@@ -145,6 +145,18 @@
       }
     },
     {
+      "key": "Bong",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 150,
+        "override_max_value": false,
+        "max_value": 200,
+        "override_weight": false,
+        "weight": 1.17
+      }
+    },
+    {
       "key": "Book",
       "value": {
         "active": true,
@@ -274,6 +286,18 @@
         "max_value": 60,
         "override_weight": false,
         "weight": 1.0
+      }
+    },
+    {
+      "key": "Butter Schnapps",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 30,
+        "override_max_value": false,
+        "max_value": 55,
+        "override_weight": false,
+        "weight": 1.06
       }
     },
     {
@@ -526,6 +550,18 @@
         "max_value": 110,
         "override_weight": false,
         "weight": 1.1
+      }
+    },
+    {
+      "key": "Empty Syringe",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 5,
+        "override_max_value": false,
+        "max_value": 9,
+        "override_weight": false,
+        "weight": 1.0
       }
     },
     {
@@ -829,6 +865,18 @@
       }
     },
     {
+      "key": "Heroin Syringe",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 16,
+        "override_max_value": false,
+        "max_value": 28,
+        "override_weight": false,
+        "weight": 1.0
+      }
+    },
+    {
       "key": "Homemade flashbang",
       "value": {
         "active": true,
@@ -838,6 +886,18 @@
         "max_value": 70,
         "override_weight": false,
         "weight": 1.05
+      }
+    },
+    {
+      "key": "Jagermeister",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 40,
+        "override_max_value": false,
+        "max_value": 67,
+        "override_weight": false,
+        "weight": 1.06
       }
     },
     {
@@ -1213,6 +1273,18 @@
       }
     },
     {
+      "key": "Polaroid",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 70,
+        "override_weight": false,
+        "weight": 1.15
+      }
+    },
+    {
       "key": "Potatoes",
       "value": {
         "active": true,
@@ -1222,6 +1294,18 @@
         "max_value": 349,
         "override_weight": false,
         "weight": 1.09523809
+      }
+    },
+    {
+      "key": "Quarter Jar",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 100,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.01
       }
     },
     {
@@ -1681,6 +1765,18 @@
       }
     },
     {
+      "key": "Vodka",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 45,
+        "override_max_value": false,
+        "max_value": 70,
+        "override_weight": false,
+        "weight": 1.08
+      }
+    },
+    {
       "key": "V-type engine",
       "value": {
         "active": true,
@@ -1765,6 +1861,18 @@
       }
     },
     {
+      "key": "Wine",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 80,
+        "override_weight": false,
+        "weight": 1.07
+      }
+    },
+    {
       "key": "Wine bottle",
       "value": {
         "active": true,
@@ -1810,6 +1918,18 @@
         "max_value": 90,
         "override_weight": false,
         "weight": 1.4
+      }
+    },
+    {
+      "key": "Zip Jar",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 420,
+        "override_max_value": false,
+        "max_value": 420,
+        "override_weight": false,
+        "weight": 1.04
       }
     }
   ]

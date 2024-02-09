@@ -181,6 +181,18 @@
       }
     },
     {
+      "key": "LaserGun",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 1300,
+        "override_max_discount": false,
+        "max_discount": 0,
+        "override_weight": false,
+        "weight": 1.35
+      }
+    },
+    {
       "key": "Lightning rod",
       "value": {
         "active": true,
@@ -274,6 +286,18 @@
         "max_discount": 80,
         "override_weight": false,
         "weight": 1.028
+      }
+    },
+    {
+      "key": "Polaroid",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 150,
+        "override_max_discount": false,
+        "max_discount": 0,
+        "override_weight": false,
+        "weight": 1.15
       }
     },
     {
@@ -430,18 +454,6 @@
         "max_discount": 80,
         "override_weight": false,
         "weight": 1.152381
-      }
-    },
-    {
-      "key": "Toy Hammer",
-      "value": {
-        "active": true,
-        "override_price": false,
-        "price": 15,
-        "override_max_discount": false,
-        "max_discount": 80,
-        "override_weight": false,
-        "weight": 1.0952
       }
     },
     {

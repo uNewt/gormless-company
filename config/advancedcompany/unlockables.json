@@ -41,6 +41,14 @@
       }
     },
     {
+      "key": "Hightech",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 75
+      }
+    },
+    {
       "key": "JackOLantern",
       "value": {
         "active": true,
@@ -54,6 +62,14 @@
         "active": true,
         "override_price": false,
         "price": 110
+      }
+    },
+    {
+      "key": "Lethal Slot Machine",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 0
       }
     },
     {
@@ -129,11 +145,27 @@
       }
     },
     {
+      "key": "Used",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 15
+      }
+    },
+    {
       "key": "Welcome mat",
       "value": {
         "active": true,
         "override_price": false,
         "price": 40
+      }
+    },
+    {
+      "key": "Chess",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 1
       }
     },
     {

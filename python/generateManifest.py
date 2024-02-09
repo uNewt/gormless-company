@@ -8,6 +8,7 @@ dependencyLines = []
 with open(PATH_DEPENDENCIES, "r") as dependencyFile:
     for line in dependencyFile.readlines():
         dependencyLines.append(line.replace("\n", ""))
+dependencyLines.sort()
 
 with open(PATH_CONFIG, "r") as configurationFile:
     configurationJson = json.load(configurationFile)
