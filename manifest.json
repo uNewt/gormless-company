@@ -1,6 +1,6 @@
 {
     "name": "Gormless_Company",
-    "version_number": "1.2.0",
+    "version_number": "1.2.1",
     "website_url": "https://github.com/uNewt/gormless-company",
     "description": "Gormless Company Modpack",
     "dependencies": [
@@ -136,7 +136,7 @@
         "sfDesat-Celest-0.2.1",
         "stefan750-LCUltrawide-1.1.1",
         "tinyhoot-ShipLoot-1.0.0",
-        "veri-ShipWindows-1.0.5",
+        "veri-ShipWindows-1.0.6",
         "willis81808-LethalSettings-1.4.0",
         "x753-Mimics-2.3.2",
         "x753-More_Suits-1.4.1",
